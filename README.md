@@ -46,15 +46,15 @@ Edit Nomor Owner DLL `'./settings/setting.json'`
 "OwnerName":"Zaky",
 
 "GithubOwner":"https://github.com/Zakybotz",
-"YoutubeOwner":"https://youtube.com/c/LEX4YOUU",
+"YoutubeOwner":"-",
 "GroupOwner":"https://chat.whatsapp.com/CzLzQuCfc9zDnaJcYJQAhm"
 }
 ```
 
 # My Sosial
-- [Group ](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [YouTube ](https://youtube.com/c/LEX4YOUU)
-- [Whatsapp ](https://wa.me/6285789004732)
+- [Group ](https://chat.whatsapp.com/CzLzQuCfc9zDnaJcYJQAhm)
+- [Tik Tok ](-)
+- [Whatsapp ](https://wa.me/62858779027560)
 
 # Thanks To
 * [`ORTU`](-)
