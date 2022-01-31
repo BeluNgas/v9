@@ -29,9 +29,9 @@
 > pkg install imagemagick
 > pkg install ffmpeg
 > termux-setup-storage
-> cd /sdcard/v13
-> git clone https://github.com/Lexxy24/v13.git
-> cd v13
+> cd /sdcard/(nama file)
+> git clone (link github)
+> cd (nama file)
 > git clone https://github.com/Lexxy24/node_modules
 > npm start
 ```
